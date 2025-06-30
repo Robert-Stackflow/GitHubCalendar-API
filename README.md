@@ -20,8 +20,8 @@ By using this API, you can obtain user contribution data easily
 
 - You can visit this example url which will return my (Robert-Stackflow) contribution history.
 
-  [https://gitcalendar.api.cloudchewie.com/api?Robert-Stackflow](https://gitcalendar.api.cloudchewie.com/api?Robert-Stackflow)
-
+  [https://api.cloudchewie.com/tools/github-calendar?Robert-Stackflow](https://api.cloudchewie.com/tools/github-calendar?Robert-Stackflow)
+  
 ## CORS
 
 - To prevent abuse, you cannot use the example API on your website, it is only used as an example.
